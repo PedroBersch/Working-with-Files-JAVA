@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fileWritterAndBufferWritter.iml" filepath="$PROJECT_DIR$/fileWritterAndBufferWritter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileWriterAndFileBuffer.iml" filepath="$PROJECT_DIR$/fileWriterAndFileBuffer.iml" />
     </modules>
   </component>
 </project>
